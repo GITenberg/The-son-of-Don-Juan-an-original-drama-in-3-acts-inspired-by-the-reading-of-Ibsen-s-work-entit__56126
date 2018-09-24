@@ -1,11 +1,14 @@
 _repo: The-son-of-Don-Juan-an-original-drama-in-3-acts-inspired-by-the-reading-of-Ibsen-s-work-entit__56126
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Graham, J. J. (James John)
     alias: Graham, James John
     gutenberg_agent_id: '4650'
     url: http://www.gutenberg.org/2009/agents/4650
+covers:
+- cover_type: archival
+  image_path: 56126-h/images/cover.jpg
 creator:
   author:
     agent_name: Echegaray, José
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '40983'
     url: http://www.gutenberg.org/2009/agents/40983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56126#The-son-of-Don-Juan-an-original-drama-in-3-acts-inspired-by-the-reading-of-Ibsen-s-work-entit_
 gutenberg_issued: '2017-12-04'
 gutenberg_type: Text
 identifiers:
